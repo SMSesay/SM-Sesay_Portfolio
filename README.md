@@ -1,12 +1,19 @@
 # SMSesay.github.io
-Portfolio
 
-## [Project 1:]
+## Portfolio
 
-## [Project 2:]
+### Project 1:
 
-## [Project 3:]
+### Project 2:
 
-## [Project 4:]
+### Project 3:
 
-### Project
+### Project 4:
+
+### Project 5:
+
+### Project 6:
+
+### Project 7:
+
+### Project 8:
